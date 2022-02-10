@@ -21,7 +21,7 @@
     "html-webpack-plugin": "^4.2.0",
     "http-server": "^0.12.1",
     "jquery": "^3.5.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "popper.js": "^1.16.1",
     "postcss-loader": "^3.0.0",
     "regenerator-runtime": "^0.13.5",
